@@ -1,10 +1,13 @@
-## Hi there 👋
-My name is Manoel, and i am from Brasil.
-A developer focused o backend and cybersecurity, still learning!
+<h1>Hello there👋</h1>
+<p>My name is Manoel, and i'm 15 years old!.
+A developer focused on backend and cybersecurity, still learning!</p>
 
-contact me:
-<p href="instagram.com/shirodev"> Instagram</p>
-<p href="gmail link">Gamil</p>
+<h2>contact me:</h2>
+<a height="12px">Instagram:</a>
+<a href="instagram.com/shirodev">shirodev6</a>
+<p>-</p>
+<a>gmail</a>
+<a href="gmail link">manoelrodriguesdev@gmail.com</a>
 
 <img src="">
 
