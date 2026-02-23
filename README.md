@@ -1,48 +1,35 @@
-# Hi ðŸ‘‹, I'm Manoel Rodrigues
+# Hi, I'm Manoel Rodrigues
 
-ðŸš€ **Software Developer | Python, C & C++**  
-ðŸ‡§ðŸ‡· Brazil
+**Software Developer | Python, C & C++**  
+15 years, Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-Iâ€™m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+i'm deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 ---
 
-## ðŸŒ Where to find me
+## Where to find me
 
 <p align="left">
   <a href="https://github.com/herbertcarnaubadesouza">
     <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <a href="https://instagram.com/shirodev6">
 </p>
 
 ---
 
-## ðŸ§  What I do
+## What I do
 
--   ðŸ—ï¸ SaaS & High-scale systems
--   âš¡ Performance optimization
--   ðŸ§© Clean architecture & system design
--   ðŸ” Secure APIs & authentication
--   ðŸ’³ Payments, subscriptions & business logic
--   ðŸ¤– Automation & integrations
--   ðŸ“Š Dashboards & analytics
--   ðŸŽ“ Teaching & mentoring developers
+-   Performance optimization
+-   Clean architecture & system design
+-   Secure APIs & authentication
+-   Payments, subscriptions & business logic
+-   Automation & integrations
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -73,24 +60,17 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShiroNat&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ðŸš€ Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-â­ If you like my work, consider starring a repository  
-ðŸ¤ Always open to collaborations, partnerships, and cool ideas
+If you like my work, consider starring a repository  
+Always open to collaborations, partnerships, and cool ideas
 
 <!--
 Here are some ideas to get you started:
