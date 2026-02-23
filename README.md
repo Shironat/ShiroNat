@@ -2,7 +2,9 @@
 <p>My name is Manoel, and i'm 15 years old!.
 A developer focused on backend and cybersecurity, still learning!</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div>
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+</div>
 
 <!--
 Here are some ideas to get you started:
