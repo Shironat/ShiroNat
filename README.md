@@ -2,15 +2,7 @@
 <p>My name is Manoel, and i'm 15 years old!.
 A developer focused on backend and cybersecurity, still learning!</p>
 
-<h2>contact me:</h2>
-<a height="12px">Instagram:</a>
-<a href="instagram.com/shirodev">shirodev6</a>
-<p>-</p>
-<a>gmail</a>
-<a href="gmail link">manoelrodriguesdev@gmail.com</a>
-
-<img src="">
-
+(https://github-readme-stats.vercel.app/api?username=ShiroNat)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
