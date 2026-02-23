@@ -45,7 +45,7 @@ i'm deeply focused on **architecture, performance, clean code, and business-driv
 ### Backend
 
 
-![Python](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
