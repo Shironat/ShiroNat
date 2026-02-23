@@ -15,6 +15,8 @@ i'm deeply focused on **architecture, performance, clean code, and business-driv
     <img src="https://img.shields.io/badge/GitHub-ShiroNat-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/shirodev6">
+    <img src="https://img.shields.io/badge/Instagram-@ShiroDev6-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
